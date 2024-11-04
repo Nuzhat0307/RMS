@@ -79,7 +79,7 @@ const OrderControl = () => {
             <hr />
             <h6>Online Link</h6>
             <a
-              href="#"
+              href="/"
               className="text-blue hover-green"
               target="_blank"
               rel="noopener noreferrer"
@@ -89,7 +89,7 @@ const OrderControl = () => {
             <hr />
             <h6>Custom Link</h6>
             <a
-              href="#"
+              href="/"
               className="text-blue hover-green"
               target="_blank"
               rel="noopener noreferrer"
